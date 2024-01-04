@@ -99,6 +99,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+    //chvjmy
     public void searchList(String text){
         ArrayList<DataClass> searchList = new ArrayList<>();
         for (DataClass dataClass: dataList){
