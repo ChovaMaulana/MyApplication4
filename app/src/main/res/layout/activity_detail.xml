@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/detailTitle"
-        android:text="Nama"
+        android:text="Pekerjaan"
         android:layout_marginTop="14dp"
         android:textSize="30sp"
         android:layout_gravity="center"
